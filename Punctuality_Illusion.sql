@@ -1,3 +1,11 @@
+/*
+PROJECT: Eniac x Magist M&A Audit
+INSIGHT: The Punctuality Illusion
+AUTHOR: Aylin Yildiz
+DESCRIPTION: This query calculates the gap between estimated and actual delivery dates 
+to uncover hidden supply chain inefficiencies.
+*/
+
 SELECT 
     CASE 
         WHEN DATEDIFF(order_delivered_customer_date, order_estimated_delivery_date) > 0 
