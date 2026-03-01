@@ -1,9 +1,10 @@
 /*
-PROJECT: Eniac x Magist M&A Audit
-INSIGHT: The Punctuality Illusion
-AUTHOR: Aylin Yildiz
-DESCRIPTION: This query calculates the gap between estimated and actual delivery dates 
-to uncover hidden supply chain inefficiencies.
+PROJECT:     Eniac x Magist M&A Strategic Audit
+INSIGHT:     The Punctuality Illusion (System vs. Reality)
+AUTHOR:      Aylin Yildiz
+DESCRIPTION: This query audits the 93% on-time delivery claim by comparing 
+             actual delivery dates against artificially extended system 
+             estimates. It identifies the "buffer" used to mask inefficiency.
 */
 
 
