@@ -1,4 +1,13 @@
-SELECT 
+a/*
+PROJECT:     Eniac x Magist M&A Strategic Audit
+INSIGHT:     Two-Speed Brazil (Geospatial Performance Gap)
+AUTHOR:      Aylin Yildiz
+DESCRIPTION: Analyzes real-world lead times for tech products across regions. 
+             Provides data for the "Northern Gap" vs. "São Paulo Powerhouse" 
+             comparison, highlighting logistical risks and cargo theft impact.
+*/
+
+
     CASE 
         WHEN p.product_category_name IN (
             'informatica_acessorios', 'pcs', 'telefonia', 
