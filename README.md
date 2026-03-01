@@ -1,4 +1,3 @@
-# sql_business_exploratory
 # Strategic Data Audit: Eniac x Magist Fusion 📊🚀
 
 ## 📋 Executive Summary
