@@ -8,6 +8,7 @@ DESCRIPTION: Analyzes real-world lead times for tech products across regions.
 */
 
 
+SELECT
     CASE 
         WHEN p.product_category_name IN (
             'informatica_acessorios', 'pcs', 'telefonia', 
