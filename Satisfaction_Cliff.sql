@@ -1,3 +1,12 @@
+/*
+PROJECT: Eniac x Magist M&A Audit
+INSIGHT: The Punctuality Illusion
+AUTHOR: Aylin Yildiz
+DESCRIPTION: This query calculates the gap between estimated and actual delivery dates 
+to uncover hidden supply chain inefficiencies.
+*/
+
+
 SELECT
     CASE
         WHEN oi.price >= 500 THEN 'Premium (>500€)'             -- Identifying Eniac's target
