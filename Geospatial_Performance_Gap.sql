@@ -1,4 +1,4 @@
-a/*
+/*
 PROJECT:     Eniac x Magist M&A Strategic Audit
 INSIGHT:     Two-Speed Brazil (Geospatial Performance Gap)
 AUTHOR:      Aylin Yildiz
